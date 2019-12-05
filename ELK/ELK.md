@@ -24,9 +24,33 @@
     * Metricbeat : OS시스템 자원 감시
     * Packetbeat : 네트워크, 패킷, 프로토콜 수집
     * Heartbeat  : 서비스의 상태 유무
+    
+- **Etc**
+    
+    - [Elastic](https://victorydntmd.tistory.com/308)
+ 
 
 ---
+# Docker Setup
+- **Docker Install**
+    ```
+    CentOS 7 최신 docker-compose install 방법
+    
+    - yum install -y yum-utils device-mapper-persistent-data lvm2
+    - yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+    - yum install docker-ce
+    
+- **ELK Git**
+     - [docker-elk](https://github.com/deviantony/docker-elk)
+---     
+# Docker ELK Usage
 
+- **start**
+    ```
+    - docker-compose up
+    - kibana 접속 http://host:5601/
+
+---
 # Local Setup
 
 - **jdk 1.8 install**
@@ -61,7 +85,7 @@
 
 ---
 
-# Usage
+# Local Usage
 
 - **start**
     ```
