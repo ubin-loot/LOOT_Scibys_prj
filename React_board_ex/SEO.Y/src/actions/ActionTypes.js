@@ -1,0 +1,30 @@
+/* AUTHENTICATION */
+// Register
+export const AUTH_REGISTER = "AUTH_REGISTER";
+export const AUTH_REGISTER_SUCCESS = "AUTH_REGISTER_SUCCESS";
+export const AUTH_REGISTER_FAILURE = "AUTH_REGISTER_FAILURE";
+
+// Login
+export const AUTH_LOGIN = "AUTH_LOGIN";
+export const AUTH_LOGIN_SUCCESS = "AUTH_LOGIN_SUCCESS";
+export const AUTH_LOGIN_FAILURE = "AUTH_LOGIN_FAILURE";
+
+// Logout
+export const AUTH_LOGOUT = "AUTH_LOGOUT";
+
+// Check sessions
+export const AUTH_GET_STATUS = "AUTH_GET_STATUS";
+export const AUTH_GET_STATUS_SUCCESS = "AUTH_GET_STATUS_SUCCESS";
+export const AUTH_GET_STATUS_FAILURE = "AUTH_GET_STATUS_FAILURE";
+
+/* post Board */
+export const BOARD_POST = "BOARD_POST"
+export const BOARD_POST_SUCCESS = "BOARD_POST_SUCCESS"
+export const BOARD_POST_FAILURE = "BOARD_POST_FAILURE"
+
+/* get Board */
+
+export const BOARD_LIST = "BOARD_LIST"
+export const BOARD_LIST_SUCCESS = "BOARD_LIST_SUCCESS"
+export const BOARD_LIST_FAILURE = "BOARD_LIST_FAILURE"
+
