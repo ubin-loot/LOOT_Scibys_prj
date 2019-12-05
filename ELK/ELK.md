@@ -26,7 +26,6 @@
     * Heartbeat  : 서비스의 상태 유무
     
 - **Etc**
-    
     - [Elastic](https://victorydntmd.tistory.com/308)
  
 
