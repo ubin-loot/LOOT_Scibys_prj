@@ -27,7 +27,7 @@
 
 ---
 
-# Setup
+# Local Setup
 
 - **jdk 1.8 install**
     ```
