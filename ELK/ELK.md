@@ -2,7 +2,7 @@
 
 - **Kibana** 
     ```
-    - javascript
+    - javascript(React + NodeJS)
     - elasticsearch Data 시각화
     ``` 
 - **Elasticsearch**
@@ -27,6 +27,7 @@
     
 - **Etc**
     - [Elastic](https://victorydntmd.tistory.com/308)
+    
  
 
 ---
@@ -39,8 +40,9 @@
     - yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
     - yum install docker-ce
     
-- **ELK Git**
+- **ELK**
      - [docker-elk](https://github.com/deviantony/docker-elk)
+     - [ELK setting](https://judo0179.tistory.com/60)
 ---     
 # Docker ELK Usage
 
