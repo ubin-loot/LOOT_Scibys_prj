@@ -31,7 +31,7 @@
  
 
 ---
-# Docker Setup
+# Docker ELK Setup
 - **Docker Install**
     ```
     CentOS 7 최신 docker-compose install 방법
